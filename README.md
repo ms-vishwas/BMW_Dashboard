@@ -30,3 +30,7 @@ Revenue and Revenue PY by Month: Track monthly revenue and compare it with the p
 - Quantity Sold by Year: Observe annual sales trends.
 
 - Model-Specific Drill-down: (Based on the second screenshot) Ability to filter and view details for specific car models (e.g., BMW 1 Series, BMW Z4, BMW M8, etc.).
+***
+![alt image](https://github.com/ms-vishwas/BMW_Dashboard/blob/main/Dashboard_Page_1.png)
+***
+![alt image](https://github.com/ms-vishwas/BMW_Dashboard/blob/main/Dashboard_Page_2.png)
